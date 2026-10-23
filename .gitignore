@@ -7,3 +7,7 @@ venv/
 
 # Local backup files
 text/run_evaluation.py.bak*
+
+# Local backup files
+*.bak
+*.bak*
